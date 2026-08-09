@@ -1,73 +1,74 @@
-<h1 align="center">Hi, I'm Jahnvi Shukla 👋</h1>
+<!-- Banner: replace IMAGE_URL_HERE with your uploaded image link (see instructions) -->
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/7736726b-0800-4ebd-9508-b1c89515b65e" width="100%" />
+</p>
 
-<h3 align="center">B.Tech CSE (Cloud Computing) @ UPES Dehradun | Batch 2024–2028</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+YOUR-NAME!;CSE+Student+%7C+Cloud+Computing;DSA+in+Java+%7C+Building+in+Public" />
+</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CGPA-8.0-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/AWS-Academy%20Cloud%20Foundations-orange?style=flat-square&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/DSA-Java-red?style=flat-square&logo=java" />
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jahnvishukla37@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/jahnvi52" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 📌 About Me
 
-I'm a 3rd-year Computer Science student specializing in Cloud Computing, currently deep in structured DSA practice (Java) and building full-stack projects. I like understanding things fully before moving on.
-
-- 🔭 Currently working on **CivicIQ** — a civic issue reporting platform (React + Node/Express + Clerk + Leaflet)
-- 🌱 Currently learning: **Data Structures & Algorithms (Java)**, following Striver's A2Z Sheet
-- ☁️ Cloud-focused: AWS Academy Cloud Foundations certified
-- 🎯 Long-term goal: SWE role with a cloud specialization
-- 💬 Ask me about: Java, DSA, Cloud fundamentals, React/Node
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📌 Featured Project
-
-**[CivicIQ](https://github.com/jahnvi52/CivicIQ)** — A civic issue reporting platform enabling users to report and track local issues (waste, infrastructure) on an interactive map.
-`React` `Node.js` `Express` `Clerk` `Leaflet` — deployed on Vercel
+- 🎓 3rd-year B.Tech CSE (Cloud Computing) @ UPES Dehradun — Batch 2024–2028
+- ☁️ AWS Academy Cloud Foundations certified
+- 🧠 Currently deep in structured DSA practice (Java) — following Striver's A2Z Sheet
+- 🔨 Building **CivicIQ** — civic issue reporting platform (React + Node/Express + Clerk + Leaflet)
+- 🎯 Working toward a Cloud/SWE hybrid role
+- 🎵 Off-screen: dance and music
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahnvi52&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnvi52&layout=compact&theme=default" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jahnvi52&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jahnvi52&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahnvi52&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahnvi52&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-### 🏆 Trophies
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jahnvi52&theme=flat&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahnvi52&theme=redical&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Connect
+### 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jahnvishukla37@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,aws,git,html,css" />
 </p>
+
+---
+
+### 📌 Featured Project
+
+**[CivicIQ](https://github.com/jahnvi52/CivicIQ)** — Civic issue reporting platform with live map-based tracking.
+`React` `Node.js` `Express` `Clerk` `Leaflet` — deployed on Vercel
+
+---
+
+<!-- Optional: only include this section if you actually have a Codeforces/LeetCode profile with real activity -->
+### 🏆 Competitive Programming
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/jahnvi26?theme=dark&font=Fira%20Code" />
+</p>
+
+---
+
+<p align="center"><i>Made with 🖤 by Jahnvi Shukla</i></p>
