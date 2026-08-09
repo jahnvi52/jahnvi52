@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jahnvi Shukla!;CSE+Student+%7C+Cloud+Computing;DSA+in+Java+%7C+Building+in+Public" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jahnvi+Shukla!;CSE+Student+%7C+Cloud+Computing;DSA+in+Java+%7C+Building+in+Public" />
 </h1>
 
 <p align="center">
