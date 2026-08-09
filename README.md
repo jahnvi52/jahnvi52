@@ -17,10 +17,10 @@
 
 ### 📌 About Me
 
-- 🎓 3rd-year B.Tech CSE (Cloud Computing) @ UPES Dehradun — Batch 2024–2028
+- 🎓 3rd-year B.Tech CSE (Cloud Computing) @ UPES Dehradun - Batch 2024–2028
 - ☁️ AWS Academy Cloud Foundations certified
-- 🧠 Currently deep in structured DSA practice (Java) — following Striver's A2Z Sheet
-- 🔨 Building **CivicIQ** — civic issue reporting platform (React + Node/Express + Clerk + Leaflet)
+- 🧠 Currently deep in structured DSA practice (Java) - following Striver's A2Z Sheet
+- 🔨 Building **CivicIQ** - civic issue reporting platform (React + Node/Express + Clerk + Leaflet)
 - 🎯 Working toward a Cloud/SWE hybrid role
 - 🎵 Off-screen: dance and music
 
